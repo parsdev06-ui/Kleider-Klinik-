@@ -1,0 +1,36 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663776473482/39CdAYW7SqK73o7u5uu3jq",
+    "access_key_id": "ASIAZV3A2ECZFGW4ZY3E",
+    "secret_access_key": "nV8BcCMym1ef+b06KXgSkZQAwuvhc9yRYV2PUqRi",
+    "session_token": "IQoJb3JpZ2luX2VjEMz//////////wEaCXVzLWVhc3QtMSJHMEUCIQDQqK4C2VCkFU106fRdUcyz1IEUswRmQbKKIXTyGz7HaQIgIgvQl7LJrsnvEPLvj4qkPQZAEj0qfEuk9wVaB7ubljQq/wMIlf//////////ARAEGgw2NjUzODYwOTg4NjYiDIZUk85Mz8pJb3b1CirTA8xeK3HpMiKSvI2M9Ygz95ZUeKA6fJklW2GWY6i5jieBMhu3CtcF7azvMqnaJFcoyS9XpCP4R2ymlU5BFH7XM+W4zuLoK9CnL5iQ4K2WA80QkMTs4XMbsp9YlFbrVAr8ZA67KAXcT7St7c6x/I/aayqPBeOWdA6ZtQgBSVl9pzGMCuSft4of4KimeYz56kOCDQt+XuuiWtDyLo9MqLb7e98num5hRxpLdh9XrVfoavg6no1TdtDSwFtA660SJsa/EmjDGXWkWp+hqgBq4gWzhRF7piTs+wzVBbxzDm0DN3qjfc2D2Xdpdb6bX3+a5FADansVccVbx7vf+v2gB7AWcNWpPdFPiLMsxpnhHpuu4R+oY2IvFQkSP4/HmkO3awkBBcHwgHIOHmXAq+MmS0f7a0bwhEPQCqkZcw86uoz8TO98pdLNDCTOYe1goyobuQb1iEeEDuc/dInSYEm+0+vZRWgBVwzBwxGhM1KFLa20bGzmaa0pqLuQY67OOQ1iJ/oHBq2OCGHefOX6BaeZxpbjSkjs6YInOtMbXleyfgc869CVmJ0SrptTs40iQD3zkU6Ib/EQBJRx6ZCZXQYUpTgyfxnWPXc3kWXaYVY51yhBPi51FbiwMIqYhNIGOp0BLsxEGGAPodOTm7XW52qDt+wWhBCx5mVtVVkYcGFA3gQi5rFxak9yzzHZvjC98zq4DY+/zD8dpHEI5b8XQywSJXOGqe9qXE2/xlEeZxt0KcXEc9l+ryARKkeeztP4AHzyATyV3s3hNy3/HZma26Ov8Caq1XYy7/B2Fnf0FSqldH1eWI+tQ6pCB3+VZTvS9TrCEnRM2r9VnXqEbLe3gw==",
+    "expiration": "2026-06-28T23:56:58.000Z",
+    "backend": "GIT_BACKEND_S3"
+  },
+  "name": "kleider-klinik",
+  "path": "/home/ubuntu/kleider-klinik",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "bqC8F3ezKrKLesE9Z6xBRV",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "R6F54P9KbVEvWEnCzcZhWH",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Parsa Ebrahimzadeh",
+    "OWNER_OPEN_ID": "fy5wMXCiF4VW5zB6JDnutv",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "6c0dc379-f6d5-415a-99fc-98eb31ea2b4b",
+    "VITE_APP_ID": "39CdAYW7SqK73o7u5uu3jq",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Kleider-Klinik | Änderungsschneiderei Berlin-Neukölln",
+    "VITE_FRONTEND_FORGE_API_KEY": "FpJ6Ub6rzwAwxjnJvKQZ8h",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
